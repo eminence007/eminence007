@@ -23,7 +23,6 @@ leverage knowledge & build world-class web applications while facilitating organ
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/Vibhor-007" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="unique-sachin" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vibhor-sharma-a9649b246/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin-mishra-a790bb174" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19629812/vibhor-sharma" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20889939" height="30" width="40" /></a>
 <a href="https://codesandbox.io/u/vibhor-007" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="unique-sachin" height="30" width="40" /></a>
