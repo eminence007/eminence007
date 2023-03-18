@@ -19,7 +19,7 @@ leverage knowledge & build world-class web applications while facilitating organ
 
 - 📄 Know about skills in my [RESUME](https://drive.google.com/file/d/1AwpkCHklLgUAUrK5N56hawzJSX0ZfQtk/view?usp=share_link)
 
-- ⚡ Fun fact *I'm not from Uttar Pradesh*
+- ⚡ Fun fact *I'm from Uttar Pradesh*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
