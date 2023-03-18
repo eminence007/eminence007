@@ -7,7 +7,7 @@ leverage knowledge & build world-class web applications while facilitating organ
 <br>
 <a href="https://www.linkedin.com/in/vibhor-sharma-a9649b246/" target="_blank" rel="noreferrer"><img align="right" alt="coding" width="350" style="border-radius:5px" src="https://cdn.dribbble.com/users/369139/screenshots/16119910/media/5e904c36beeb0efac71c0f49d6dcd816.png">
 </a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unique-sachin&label=Profile%20views&color=0e75b6&style=flat" alt="unique-sachin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=unique-sachin&label=Profile%20views&color=0e75b6&style=flat" alt="eminence007" /> </p>
 
 - 🌱 I’m currently learning *Redux, NextJS*
 
