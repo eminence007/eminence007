@@ -1,5 +1,5 @@
 # 💫 About Me:
-An enthusiastic Full Stack Web Developer. <br><br>Knowledge of JavaScript, TypeScript React JS, Redux & Chakra UI. <br><br>Aims to leverage knowledge & build world-class web applications <br><br>while facilitating organization in achieving functional goals through Soft Skills.
+An enthusiastic Full Stack Web Developer. <br>Knowledge of JavaScript, TypeScript React JS, Redux & Chakra UI. <br>Aims to leverage knowledge & build world-class web applications <br>while facilitating organization in achieving functional goals through Soft Skills.
 
 Portfolio - https://eminence007.github.io
 
