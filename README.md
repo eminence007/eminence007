@@ -40,3 +40,12 @@ leverage knowledge & build world-class web applications while facilitating organ
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=eminence007&show_icons=true&theme=radical" height="255px" width="47%"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eminence007&theme=radical&langs_count=8" alt="Samruddhi" height="255px" width="100%" />
 <div>
+  
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=eminence007&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
