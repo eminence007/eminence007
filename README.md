@@ -1,3 +1,7 @@
+# 💫 About Me:
+An enthusiastic Full Stack Web Developer. <br><br>Knowledge of JavaScript, TypeScript React JS, Redux & Chakra UI. <br><br>Aims to leverage knowledge & build world-class web applications <br><br>while facilitating organization in achieving functional goals through Soft Skills.
+
+Portfolio - https://eminence007.github.io
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/winwithvibhor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vibhor-sharma-a9649b246/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@winwithvibhor) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/winwithvibhor) 
