@@ -9,7 +9,7 @@ leverage knowledge & build world-class web applications while facilitating organ
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eminence007&label=Profile%20views&color=0e75b6&style=flat" alt="eminence007" /> </p>
 
-- 🌱 I’m currently learning *Redux, NextJS*
+- 🌱 I’m currently learning *Node JS, Mongo DB*
 
 - 👨‍💻 All of my Projects are available at [My Portfolio](https://eminence007.github.io)
 
