@@ -11,7 +11,7 @@ leverage knowledge & build world-class web applications while facilitating organ
 
 - 🌱 I’m currently learning *Node JS, Mongo DB*
 
-- 👨‍💻 All of my Projects are available at [My Portfolio](https://eminence007.github.io)
+- 👨‍💻 All of my Projects are available at [My Portfolio](https://eminence007.github.io/)
 
 - 💬 Ask me about *ReactJS, TypeScript, JavaScript, CSS*
 
